@@ -70,8 +70,8 @@ When you run main.py, you will be prompted to enter details for savings and CD a
 Ensure you have Python installed. No additional packages are required.
 
 ## Acknowledgements
-*AI Bootcamp:* For providing the assignment and guidelines.
-*ChatGPT:* For assistance with clean code practices and README preparation.
+- *AI Bootcamp:* For providing the assignment and guidelines.
+- *ChatGPT:* For assistance with clean code practices and README preparation.
 
 ## Contact
 For questions or feedback, please contact me at lesliebarrera.d@gmail.com
